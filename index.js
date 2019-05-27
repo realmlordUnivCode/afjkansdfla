@@ -2,7 +2,6 @@ var imported = document.createElement('script');
 imported.src = 'https://cdnjs.cloudflare.com/ajax/libs/processing.js/1.6.6/processing.js';
 document.head.appendChild(imported);
 
-
 int idleClickerFrames = 20;
 int idleClickerMoney = 10;
 int idleClickerUpgrade;
