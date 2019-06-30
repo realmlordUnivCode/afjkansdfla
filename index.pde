@@ -93,8 +93,7 @@ variableLoads = loadStrings("variables.txt");
     nameCorrect =boolean(variableLoads[1]);
 idleClicker1 = boolean(variableLoads[3]);
 welcomeRead = boolean(variableLoads[4]);
-file = new Audio("primaryFocus.wav");
-file.play();
+
 uBG = loadImage("jeremy-thomas-98201-unsplash.jpg");
 	
 }
